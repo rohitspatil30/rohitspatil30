@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Patil
+===================================================================================================================================
 
-<!--
-**rohitspatil30/rohitspatil30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine learning Engineer
+-------------------------
 
-Here are some ideas to get you started:
+I'm a Machine Learning and Generative AI enthusiast who loves diving into real-world ML/DL projects with a splash of MLOps. By day, I explore the latest tech trends, and by night, I transform ideas into code. My passion for technology drives me to continuously learn and innovate, making every project an exciting adventure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Link](http://https://personal-portfolio-two-ruby.vercel.app/)
+* ✉️  You can contact me at [rohitspatil30@gmail.com](mailto:rohitspatil30@gmail.com)
+* 🧠  I'm learning Deep Learning in TensorFlow
+* 🤝  I'm open to collaborating on Kaggle | Github | LinkedIn
+* ⚡  I Blog @ https://medium.com/@rohitspatil30
