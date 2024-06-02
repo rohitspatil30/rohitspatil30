@@ -1,5 +1,6 @@
-<h1 align="center">👋, I'm Rohit patil</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit
+===============================================================================================================================
+<h3 align="left">Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitspatil30&label=Profile%20views&color=0e75b6&style=flat" alt="rohitspatil30" /> </p>
 
