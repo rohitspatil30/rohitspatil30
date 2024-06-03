@@ -12,13 +12,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 👨‍💻 All of my projects are available at [Portfoilio](https://personal-portfolio-azk9guh27-rohitspatil30s-projects.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@rohitspatil30](https://medium.com/@rohitspatil30)
+- 📝 I regularly write articles on [Medium](https://medium.com/@rohitspatil30)
 
 - 💬 Ask me about **Machine Learning | Generative AI | MLOps**
 
 - 📫 How to reach me **rohitspatil30@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/rohitspatil30/Resume/blob/main/Resume_Rohit_Patil.pdf](https://github.com/rohitspatil30/Resume/blob/main/Resume_Rohit_Patil.pdf)
+- 📄 Know about my experiences [My_Resume](https://github.com/rohitspatil30/Resume/blob/main/Resume_Rohit_Patil.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
