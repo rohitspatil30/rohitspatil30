@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [http://https//personal-portfolio-two-ruby.vercel.app/]([http://https//personal-portfolio-two-ruby.vercel.app/](https://personal-portfolio-azk9guh27-rohitspatil30s-projects.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-azk9guh27-rohitspatil30s-projects.vercel.app/](Portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@rohitspatil30](https://medium.com/@rohitspatil30)
 
