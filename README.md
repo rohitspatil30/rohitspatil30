@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit
+Hi!, My name is Rohit
 ===============================================================================================================================
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=F75E0A&random=false&width=435&lines=I+am+a+Machine+learning+Engineer;I+am+a+MLOps+practitioner;I+am+a+Kaggle+Expert;I+am+a+Generative+AI+Enthusiast;I+am+a+Coder)](https://git.io/typing-svg)
 
