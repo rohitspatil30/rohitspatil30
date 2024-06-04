@@ -1,6 +1,5 @@
-Hi!, My name is Rohit
-===============================================================================================================================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=F75E0A&random=false&width=435&lines=I+am+a+Machine+learning+Engineer;I+am+a+MLOps+practitioner;I+am+a+Kaggle+Expert;I+am+a+Generative+AI+Enthusiast;I+am+a+Coder)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&pause=1000&color=F75E0A&random=false&width=435&lines=Hi+there!;My+name+is+Rohit;I+am+a+Machine+learning+Engineer;I+am+a+MLOps+practitioner;I+am+a+Kaggle+Expert;I+am+a+Generative+AI+Enthusiast;I+am+a+Coder)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/{rohitspatil30}/count.svg" alt="Rohit's profile count :: Visitor's Count" />
 
@@ -63,7 +62,11 @@ Hi!, My name is Rohit
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohitspatil30&repo=diabetes_classification_project)](https://github.com/madushadhanushka/simple-sqlite)
 <br/><br/>
 
-![snake gif](https://github.com/rohitspatil30/rohitspatil30/blob/output/github-contribution-grid-snake.gif)
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitspatil30/rohitspatil30/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitspatil30/rohitspatil30/output/github-contribution-grid-snake.svg">
+<img alt="snake animation" src="https://raw.githubusercontent.com/rohitspatil30/rohitspatil30/output/github-contribution-grid-snake.svg">
+</picture>
  
 <br/><br/>
 <h3 align="left">Github Trophies</h3>
