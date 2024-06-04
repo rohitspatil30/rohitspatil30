@@ -2,7 +2,7 @@ Hi!, My name is Rohit
 ===============================================================================================================================
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=F75E0A&random=false&width=435&lines=I+am+a+Machine+learning+Engineer;I+am+a+MLOps+practitioner;I+am+a+Kaggle+Expert;I+am+a+Generative+AI+Enthusiast;I+am+a+Coder)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitspatil30&label=Profile%20views&color=0e75b6&style=flat" alt="rohitspatil30" /> </p>
+<img src="https://profile-counter.glitch.me/{rohitspatil30}/count.svg" alt="Rohit's profile count :: Visitor's Count" />
 
 - 🔭 I’m currently working on **Diabetes Classification Project**
 
@@ -37,15 +37,47 @@ Hi!, My name is Rohit
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<b>My GitHub Stats</b>
+<h3 align="left">Github Stats</h3>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitspatil30&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
-<a href="http://www.github.com/rohitspatil30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitspatil30&stroke=ffffff&background=0f172a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br/><br/><br/>
+<h3 align="left">GitHub top languages</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitspatil30&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<br/><br/><br/>
+<h3 align="left">GitHub All Stats</h3>
+<img src="https://myreadme.vercel.app/api/embed/rohitspatil30?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<br /><br /><br />
+
+<h3 align="left">Longest streak stats</h3>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitspatil30&theme=tokyonight" alt="mystreak"/>
+<br/><br/>
 
 
-<a href="https://github.com/rohitspatil30" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitspatil30&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h3 align="left">Projects stats</h3>
 
-<b>Top Repositories</b>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohitspatil30&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohitspatil30&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
+<br/><br/>
+<h3 align="left">Contributiob Graph</h3>
 
-<div width="100%" align="center"><a href="https://github.com/rohitspatil30/wine_quality_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitspatil30&repo=wine_quality_project&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/rohitspatil30/diabetes_classification_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rohitspatil30&repo=diabetes_classification_project&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+![Contribution](https://activity-graph.herokuapp.com/graph?username=rohitspatil30&theme=react-dark&hide_border=true&area=true)
+<br/><br/>
+<h3 align="left">Contributiob Graph</h3>
+
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=rohitspatil30&theme=react-dark&hide_border=true&area=true)
+
+<br/><br/>
+<h3 align="left">Github Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=rohitspatil30&theme=juicyfresh&no-bg=true" />
+
+<br/><br/>
+<h3 align="left">Profile view count</h3>
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+
+
+
