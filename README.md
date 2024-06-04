@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit
 ===============================================================================================================================
-<h3 align="left">Machine Learning Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=F75E0A&random=false&width=435&lines=I+am+a+Machine+learning+Engineer;I+am+a+MLOps+practitioner;I+am+a+Kaggle+Expert;I+am+a+Generative+AI+Enthusiast;I+am+a+Coder)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitspatil30&label=Profile%20views&color=0e75b6&style=flat" alt="rohitspatil30" /> </p>
 
