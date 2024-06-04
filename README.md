@@ -63,7 +63,7 @@ Hi!, My name is Rohit
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohitspatil30&repo=diabetes_classification_project)](https://github.com/madushadhanushka/simple-sqlite)
 <br/><br/>
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/rohitspatil30/rohitspatil30/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/rohitspatil30/rohitspatil30/blob/output/github-contribution-grid-snake.gif)
  
 <br/><br/>
 <h3 align="left">Github Trophies</h3>
