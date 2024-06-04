@@ -39,7 +39,7 @@ Hi!, My name is Rohit
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rohitspatil30"><img src="https://github-readme-stats.vercel.app/api?username=rohitspatil30&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="rohitspatil30's GitHub stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitspatil30&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <a href="http://www.github.com/rohitspatil30"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitspatil30&stroke=ffffff&background=0f172a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
