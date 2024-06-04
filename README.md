@@ -62,15 +62,8 @@ Hi!, My name is Rohit
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohitspatil30&repo=differ)](https://github.com/madushadhanushka/differ)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohitspatil30&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 <br/><br/>
-<h3 align="left">Contributiob Graph</h3>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=rohitspatil30&theme=react-dark&hide_border=true&area=true)
-<br/><br/>
-<h3 align="left">Contributiob Graph</h3>
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=rohitspatil30&theme=react-dark&hide_border=true&area=true)
-
+ ![Snake animation](https://github.com/rohitspatil30/rohitspatil30/blob/output/github-contribution-grid-snake.svg)
 <br/><br/>
 <h3 align="left">Github Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=rohitspatil30&theme=juicyfresh&no-bg=true" />
