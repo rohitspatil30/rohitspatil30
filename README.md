@@ -54,7 +54,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitspatil30&theme=tokyonight" alt="mystreak"/>
 <br/><br/>
 
-
 <h3 align="left">Projects stats</h3>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rohitspatil30&repo=wine_quality_project)](https://github.com/madushadhanushka/differ)
@@ -66,9 +65,12 @@
 <h3 align="left">Github Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=rohitspatil30&theme=juicyfresh&no-bg=true" />
 
-<br/><br/>
-<h3 align="left">Profile view count</h3>
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+</div>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DyowaneZambetta/DyowaneZambetta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DyowaneZambetta/DyowaneZambetta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DyowaneZambetta/DyowaneZambetta/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
