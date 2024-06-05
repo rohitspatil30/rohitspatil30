@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&weight=800&size=30&pause=500&center=false&random=false&width=435&lines=Hi+there!;My+name+is+Rohit+;I+am+a+Machine+learning+engineer;I+am+Generative+AI+enthusiast;I+am+a+MLOps++practitioner;and+a+coder+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic+Coding&weight=500&size=25&pause=500&center=false&random=false&width=435&lines=Hi+there!;My+name+is+Rohit+;I+am+a+Machine+learning+engineer;I+am+Generative+AI+enthusiast;I+am+a+MLOps++practitioner;and+a+coder+!)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/{rohitspatil30}/count.svg" alt="Rohit's profile count :: Visitor's Count" />
 
