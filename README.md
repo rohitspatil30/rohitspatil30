@@ -63,7 +63,7 @@
 <h3 align="left">Github Trophies 🏆</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=rohitspatil30&theme=juicyfresh&no-bg=true" />
 <br/>
-<h3 align="left"> My contributions 🐍</h3>h3>
+<h3 align="left"> My contributions 🐍</h3>
 </div>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitspatil30/rohitspatil30/output/github-contribution-grid-snake-dark.svg">
