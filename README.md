@@ -35,8 +35,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/rohitpatil30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rohitpatil30" height="30" width="40" /></a>
 <a href="https://medium.com/@rohitspatil30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohitspatil30" height="30" width="40" /></a>
 <br/>
-  
-<video=![Uploading ProgrammerCycleGIF.gif…]()>
+
 
 <h3 align="left">Coding Platforms </h3>
 <p align="left">
