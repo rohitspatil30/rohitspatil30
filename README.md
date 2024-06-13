@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Machine Learning | Generative AI | MLOps**
 
-- 📫 How to reach me **rohitspatil30@gmail.com**
+- 📫 You can reach me @ **rohitspatil30@gmail.com**
 
 - 📄 Know about my experiences [My_Resume](https://github.com/rohitspatil30/Resume/blob/main/Resume_Rohit_Patil.pdf)
 <br/>
