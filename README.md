@@ -51,17 +51,12 @@
 
 <h3 align="left">GitHub All Stats ⭐</h3>
 <img src="https://myreadme.vercel.app/api/embed/rohitspatil30?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<br />
-
-
+<h3 align="left">Github Trophies </h3>
+<img src="https://github-profile-trophy.vercel.app/?username=rohitspatil30&theme=juicyfresh&no-bg=true" />
 <h3 align="left">Longest streak stats </h3>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitspatil30&theme=tokyonight" alt="mystreak"/>
 <br/>
 
-<h3 align="left">Github Trophies </h3>
-<img src="https://github-profile-trophy.vercel.app/?username=rohitspatil30&theme=juicyfresh&no-bg=true" />
-<br/>
 <h3 align="left"> My contributions </h3>
 
 </div>
