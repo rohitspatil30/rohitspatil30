@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Deeplearning in TensorFlow**
 
 - 👯 I’m looking to collaborate on **Github**
-
+ 
 - 👨‍💻 All of my projects are available at [Portfoilio](https://personal-portfolio-azk9guh27-rohitspatil30s-projects.vercel.app/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@rohitspatil30)
