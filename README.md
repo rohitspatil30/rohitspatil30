@@ -2,7 +2,7 @@
              
 <hr/>               
                   
-<h2>Visitor count </h2>                 
+<h2>Visitor count </h2>                   
              
 <img src="https://profile-counter.glitch.me/{rohitspatil30}/count.svg" alt="Rohit's profile count :: Visitor's Count" />
 
