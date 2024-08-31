@@ -9,6 +9,7 @@
 <hr/>
 
 <h2>About me ✌️</h2>
+- Curre
 
 - 🔭 I’m currently working on **Diabetes Classification Project**
 
