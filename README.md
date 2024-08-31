@@ -9,7 +9,7 @@
 <hr/>
 
 <h2>About me ✌️</h2>
-- Currently working at
+- Currently working at PTC as CAD sow
 
 - 🔭 I’m currently working on **Diabetes Classification Project**
 
