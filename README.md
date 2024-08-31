@@ -9,7 +9,7 @@
 <hr/>
 
 <h2>About me ✌️</h2>
-- Currently working at PTC as CAD Software Developer Intern
+- 💼 Currently working at PTC as CAD Software Developer Intern.
 
 - 🔭 I’m currently working on **Diabetes Classification Project**
 
